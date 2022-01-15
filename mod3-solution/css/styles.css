@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Dongle', sans-serif;
+}
+
+/* HEADER START */
+#header-nav {
+    background: gray;
+    border-radius: 0;
+    margin: 0;
+    border: 0;
+    border-bottom: 3px solid black;
+}
+
+#title {
+	color: black;
+	font-size: 40pt;
+}
+
+a#title:hover {
+	text-decoration: none;
+}
